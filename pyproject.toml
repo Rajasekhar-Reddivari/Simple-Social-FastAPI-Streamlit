@@ -1,0 +1,16 @@
+[project]
+name = "fastapi-Project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "fastapi[standard]>=0.128.0",
+    "fastapi-users[sqlalchemy]>=15.0.3",
+    "imagekitio==4.0.1",
+    "python-dotenv>=1.2.1",
+    "uvicorn[standard]>=0.40.0",
+    "streamlit>=1.52.2",
+]
+

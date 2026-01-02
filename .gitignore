@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.pytest_cache/
+.coverage
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Database files
+*.db
+test.db
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Build/dist
+build/
+dist/
+
+# Others
+node_modules/
+
+

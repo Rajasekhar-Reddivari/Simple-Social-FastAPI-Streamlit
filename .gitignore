@@ -14,12 +14,6 @@ venv/
 ENV/
 env/
 
-# Editor/IDE
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
 # macOS
 .DS_Store
 
@@ -29,7 +23,6 @@ test.db
 
 # Environment variables
 .env
-.env.*
 
 # Streamlit
 .streamlit/
